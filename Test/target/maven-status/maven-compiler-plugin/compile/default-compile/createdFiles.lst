@@ -1,0 +1,12 @@
+com\mycompany\test\User.class
+com\mycompany\test\Book.class
+com\mycompany\test\DatabaseConnection.class
+com\mycompany\test\LibrarySystem.class
+com\mycompany\test\TestMobil.class
+com\mycompany\test\LibraryOperations.class
+com\mycompany\test\Mobil.class
+com\mycompany\test\MobilOperations.class
+com\mycompany\test\DatabaseConnect.class
+com\mycompany\test\LibraryEntity.class
+com\mycompany\test\Test.class
+com\mycompany\test\UserOperations.class
